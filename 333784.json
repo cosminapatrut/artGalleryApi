@@ -1,0 +1,84 @@
+{
+   "objectID":333784,
+   "isHighlight":false,
+   "accessionNumber":"16.4.7",
+   "accessionYear":"1916",
+   "isPublicDomain":true,
+   "primaryImage":"https://images.metmuseum.org/CRDImages/dp/original/DP816899.jpg",
+   "primaryImageSmall":"https://images.metmuseum.org/CRDImages/dp/web-large/DP816899.jpg",
+   "additionalImages":[
+
+   ],
+   "constituents":[
+      {
+         "role":"Artist",
+         "name":"Goya (Francisco de Goya y Lucientes)",
+         "constituentULAN_URL":"http://vocab.getty.edu/page/ulan/500118936",
+         "constituentWikidata_URL":"https://www.wikidata.org/wiki/Q5432",
+         "gender":""
+      }
+   ],
+   "department":"Drawings and Prints",
+   "objectName":"Print",
+   "title":"Plate 12 from 'Los Caprichos': Out hunting for teeth (A caza des dientes.)",
+   "culture":"",
+   "period":"",
+   "dynasty":"",
+   "reign":"",
+   "portfolio":"Los Caprichos",
+   "artistRole":"Artist",
+   "artistPrefix":"",
+   "artistDisplayName":"Goya (Francisco de Goya y Lucientes)",
+   "artistDisplayBio":"Spanish, Fuendetodos 1746–1828 Bordeaux",
+   "artistSuffix":"",
+   "artistAlphaSort":"Goya (Francisco de Goya y Lucientes)",
+   "artistNationality":"Spanish",
+   "artistBeginDate":"1746",
+   "artistEndDate":"1828",
+   "artistGender":"",
+   "artistWikidata_URL":"https://www.wikidata.org/wiki/Q5432",
+   "artistULAN_URL":"http://vocab.getty.edu/page/ulan/500118936",
+   "objectDate":"1799",
+   "objectBeginDate":1799,
+   "objectEndDate":1799,
+   "medium":"Etching, burnished aquatint and burin",
+   "dimensions":"Plate: 8 9/16 x 5 7/8 in. (21.8 x 14.9 cm)\r\nSheet: 12 1/16 x 7 13/16 in. (30.7 x 19.9 cm)",
+   "creditLine":"Gift of Walter E. Sachs, 1916",
+   "geographyType":"Made in",
+   "city":"",
+   "state":"",
+   "county":"",
+   "country":"Spain",
+   "region":"",
+   "subregion":"",
+   "locale":"",
+   "locus":"",
+   "excavation":"",
+   "river":"",
+   "classification":"Prints",
+   "rightsAndReproduction":"",
+   "linkResource":"",
+   "metadataDate":"2020-03-03T07:20:07.517Z",
+   "repository":"Metropolitan Museum of Art, New York, NY",
+   "objectURL":"https://www.metmuseum.org/art/collection/search/333784",
+   "tags":[
+      {
+         "term":"Fear",
+         "AAT_URL":"http://vocab.getty.edu/page/aat/300055160"
+      },
+      {
+         "term":"Men",
+         "AAT_URL":"http://vocab.getty.edu/page/aat/300025928"
+      },
+      {
+         "term":"Women",
+         "AAT_URL":"http://vocab.getty.edu/page/aat/300025943"
+      },
+      {
+         "term":"Death",
+         "AAT_URL":"http://vocab.getty.edu/page/aat/300151836"
+      }
+   ],
+   "objectWikidata_URL":"",
+   "isTimelineWork":false
+}

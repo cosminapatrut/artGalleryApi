@@ -1,0 +1,76 @@
+{
+   "objectID":333772,
+   "isHighlight":false,
+   "accessionNumber":"87.15.89",
+   "accessionYear":"1887",
+   "isPublicDomain":true,
+   "primaryImage":"https://images.metmuseum.org/CRDImages/dp/original/DP837447.jpg",
+   "primaryImageSmall":"https://images.metmuseum.org/CRDImages/dp/web-large/DP837447.jpg",
+   "additionalImages":[
+
+   ],
+   "constituents":[
+      {
+         "role":"Draftsman",
+         "name":"Edouard Detaille",
+         "constituentULAN_URL":"http://vocab.getty.edu/page/ulan/500014480",
+         "constituentWikidata_URL":"https://www.wikidata.org/wiki/Q724148",
+         "gender":""
+      }
+   ],
+   "department":"Drawings and Prints",
+   "objectName":"Drawing",
+   "title":"French Cuirassier",
+   "culture":"",
+   "period":"",
+   "dynasty":"",
+   "reign":"",
+   "portfolio":"",
+   "artistRole":"Draftsman",
+   "artistPrefix":"",
+   "artistDisplayName":"Edouard Detaille",
+   "artistDisplayBio":"French, Paris 1848–1912 Paris",
+   "artistSuffix":"",
+   "artistAlphaSort":"Detaille, Edouard",
+   "artistNationality":"French",
+   "artistBeginDate":"1848",
+   "artistEndDate":"1912",
+   "artistGender":"",
+   "artistWikidata_URL":"https://www.wikidata.org/wiki/Q724148",
+   "artistULAN_URL":"http://vocab.getty.edu/page/ulan/500014480",
+   "objectDate":"1872",
+   "objectBeginDate":1872,
+   "objectEndDate":1872,
+   "medium":"Watercolor",
+   "dimensions":"Sheet: 13 3/4 x 9 3/4 in. (34.9 x 24.8cm)",
+   "creditLine":"Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+   "geographyType":"Made in",
+   "city":"",
+   "state":"",
+   "county":"",
+   "country":"France",
+   "region":"",
+   "subregion":"",
+   "locale":"",
+   "locus":"",
+   "excavation":"",
+   "river":"",
+   "classification":"Drawings",
+   "rightsAndReproduction":"",
+   "linkResource":"",
+   "metadataDate":"2020-03-03T07:20:07.517Z",
+   "repository":"Metropolitan Museum of Art, New York, NY",
+   "objectURL":"https://www.metmuseum.org/art/collection/search/333772",
+   "tags":[
+      {
+         "term":"Soldiers",
+         "AAT_URL":"http://vocab.getty.edu/page/aat/300185678"
+      },
+      {
+         "term":"Horse Riding",
+         "AAT_URL":"http://vocab.getty.edu/page/aat/300249313"
+      }
+   ],
+   "objectWikidata_URL":"",
+   "isTimelineWork":false
+}

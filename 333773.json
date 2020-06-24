@@ -1,0 +1,72 @@
+{
+   "objectID":333773,
+   "isHighlight":false,
+   "accessionNumber":"01.23.175",
+   "accessionYear":"1901",
+   "isPublicDomain":true,
+   "primaryImage":"https://images.metmuseum.org/CRDImages/dp/original/DP805500.jpg",
+   "primaryImageSmall":"https://images.metmuseum.org/CRDImages/dp/web-large/DP805500.jpg",
+   "additionalImages":[
+      "https://images.metmuseum.org/CRDImages/dp/original/01.23.175.jpg"
+   ],
+   "constituents":[
+      {
+         "role":"Artist",
+         "name":"Henry Victor Burgy",
+         "constituentULAN_URL":"",
+         "constituentWikidata_URL":"",
+         "gender":""
+      }
+   ],
+   "department":"Drawings and Prints",
+   "objectName":"Drawing",
+   "title":"La Bocca",
+   "culture":"",
+   "period":"",
+   "dynasty":"",
+   "reign":"",
+   "portfolio":"",
+   "artistRole":"Artist",
+   "artistPrefix":"",
+   "artistDisplayName":"Henry Victor Burgy",
+   "artistDisplayBio":"French, died 1901",
+   "artistSuffix":"",
+   "artistAlphaSort":"Burgy, Henry Victor",
+   "artistNationality":"French",
+   "artistBeginDate":"1801",
+   "artistEndDate":"1901",
+   "artistGender":"",
+   "artistWikidata_URL":"",
+   "artistULAN_URL":"",
+   "objectDate":"1882",
+   "objectBeginDate":1882,
+   "objectEndDate":1882,
+   "medium":"Watercolor",
+   "dimensions":"Sheet: 9 1/2 x 12 3/4 in. (24.1 x 32.4cm)",
+   "creditLine":"Bequest of H.V. Burgy, 1901",
+   "geographyType":"",
+   "city":"",
+   "state":"",
+   "county":"",
+   "country":"",
+   "region":"",
+   "subregion":"",
+   "locale":"",
+   "locus":"",
+   "excavation":"",
+   "river":"",
+   "classification":"Drawings",
+   "rightsAndReproduction":"",
+   "linkResource":"",
+   "metadataDate":"2020-03-03T07:20:07.517Z",
+   "repository":"Metropolitan Museum of Art, New York, NY",
+   "objectURL":"https://www.metmuseum.org/art/collection/search/333773",
+   "tags":[
+      {
+         "term":"Landscapes",
+         "AAT_URL":"http://vocab.getty.edu/page/aat/300132294"
+      }
+   ],
+   "objectWikidata_URL":"",
+   "isTimelineWork":false
+}

@@ -1,0 +1,72 @@
+{
+   "objectID":333775,
+   "isHighlight":false,
+   "accessionNumber":"01.23.177",
+   "accessionYear":"1901",
+   "isPublicDomain":true,
+   "primaryImage":"https://images.metmuseum.org/CRDImages/dp/original/DP805501.jpg",
+   "primaryImageSmall":"https://images.metmuseum.org/CRDImages/dp/web-large/DP805501.jpg",
+   "additionalImages":[
+      "https://images.metmuseum.org/CRDImages/dp/original/01.23.177.jpg"
+   ],
+   "constituents":[
+      {
+         "role":"Artist",
+         "name":"Henry Victor Burgy",
+         "constituentULAN_URL":"",
+         "constituentWikidata_URL":"",
+         "gender":""
+      }
+   ],
+   "department":"Drawings and Prints",
+   "objectName":"Drawing",
+   "title":"Antibes",
+   "culture":"",
+   "period":"",
+   "dynasty":"",
+   "reign":"",
+   "portfolio":"",
+   "artistRole":"Artist",
+   "artistPrefix":"",
+   "artistDisplayName":"Henry Victor Burgy",
+   "artistDisplayBio":"French, died 1901",
+   "artistSuffix":"",
+   "artistAlphaSort":"Burgy, Henry Victor",
+   "artistNationality":"French",
+   "artistBeginDate":"1801",
+   "artistEndDate":"1901",
+   "artistGender":"",
+   "artistWikidata_URL":"",
+   "artistULAN_URL":"",
+   "objectDate":"1882",
+   "objectBeginDate":1882,
+   "objectEndDate":1882,
+   "medium":"watercolor",
+   "dimensions":"Sheet: 12 3/4 x 9 5/8 in. (32.4 x 24.5cm)",
+   "creditLine":"Bequest of H.V. Burgy, 1901",
+   "geographyType":"Made in",
+   "city":"",
+   "state":"",
+   "county":"",
+   "country":"France",
+   "region":"",
+   "subregion":"",
+   "locale":"",
+   "locus":"",
+   "excavation":"",
+   "river":"",
+   "classification":"Drawings",
+   "rightsAndReproduction":"",
+   "linkResource":"",
+   "metadataDate":"2020-03-03T07:20:07.517Z",
+   "repository":"Metropolitan Museum of Art, New York, NY",
+   "objectURL":"https://www.metmuseum.org/art/collection/search/333775",
+   "tags":[
+      {
+         "term":"Architecture",
+         "AAT_URL":"http://vocab.getty.edu/page/aat/300263552"
+      }
+   ],
+   "objectWikidata_URL":"",
+   "isTimelineWork":false
+}

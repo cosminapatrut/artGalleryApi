@@ -1,0 +1,80 @@
+{
+   "objectID":333778,
+   "isHighlight":false,
+   "accessionNumber":"12.100",
+   "accessionYear":"1912",
+   "isPublicDomain":true,
+   "primaryImage":"https://images.metmuseum.org/CRDImages/dp/original/DP823463.jpg",
+   "primaryImageSmall":"https://images.metmuseum.org/CRDImages/dp/web-large/DP823463.jpg",
+   "additionalImages":[
+      "https://images.metmuseum.org/CRDImages/dp/original/12893.jpg"
+   ],
+   "constituents":[
+      {
+         "role":"Artist",
+         "name":"Charles-François Daubigny",
+         "constituentULAN_URL":"http://vocab.getty.edu/page/ulan/500115164",
+         "constituentWikidata_URL":"https://www.wikidata.org/wiki/Q252357",
+         "gender":""
+      }
+   ],
+   "department":"Drawings and Prints",
+   "objectName":"Drawing",
+   "title":"The Hamlet of Optevoz",
+   "culture":"",
+   "period":"",
+   "dynasty":"",
+   "reign":"",
+   "portfolio":"",
+   "artistRole":"Artist",
+   "artistPrefix":"",
+   "artistDisplayName":"Charles-François Daubigny",
+   "artistDisplayBio":"French, Paris 1817–1878 Paris",
+   "artistSuffix":"",
+   "artistAlphaSort":"Daubigny, Charles-François",
+   "artistNationality":"French",
+   "artistBeginDate":"1817",
+   "artistEndDate":"1878",
+   "artistGender":"",
+   "artistWikidata_URL":"https://www.wikidata.org/wiki/Q252357",
+   "artistULAN_URL":"http://vocab.getty.edu/page/ulan/500115164",
+   "objectDate":"ca. 1852",
+   "objectBeginDate":1847,
+   "objectEndDate":1857,
+   "medium":"Charcoal and lead white",
+   "dimensions":"14 7/8 x 24 3/4 in. (37.8 x 62.8cm)",
+   "creditLine":"Rogers Fund, 1912",
+   "geographyType":"Made in",
+   "city":"",
+   "state":"",
+   "county":"",
+   "country":"France",
+   "region":"",
+   "subregion":"",
+   "locale":"",
+   "locus":"",
+   "excavation":"",
+   "river":"",
+   "classification":"Drawings",
+   "rightsAndReproduction":"",
+   "linkResource":"",
+   "metadataDate":"2020-03-03T07:20:07.517Z",
+   "repository":"Metropolitan Museum of Art, New York, NY",
+   "objectURL":"https://www.metmuseum.org/art/collection/search/333778",
+   "tags":[
+      {
+         "term":"Houses",
+         "AAT_URL":"http://vocab.getty.edu/page/aat/300005433"
+      },
+      {
+         "term":"Villages",
+         "AAT_URL":"http://vocab.getty.edu/page/aat/300008372"
+      },
+      {
+         "term":"Trees",
+         "AAT_URL":"http://vocab.getty.edu/page/aat/300132410"
+      }
+   ],
+   "objectWikidata_URL":"",
+   "isTimelineWork":false
+}

@@ -1,0 +1,80 @@
+{
+   "objectID":333774,
+   "isHighlight":false,
+   "accessionNumber":"01.23.176",
+   "accessionYear":"1901",
+   "isPublicDomain":true,
+   "primaryImage":"https://images.metmuseum.org/CRDImages/dp/original/DP805495.jpg",
+   "primaryImageSmall":"https://images.metmuseum.org/CRDImages/dp/web-large/DP805495.jpg",
+   "additionalImages":[
+      "https://images.metmuseum.org/CRDImages/dp/original/01.23.176.jpg"
+   ],
+   "constituents":[
+      {
+         "role":"Artist",
+         "name":"Henry Victor Burgy",
+         "constituentULAN_URL":"",
+         "constituentWikidata_URL":"",
+         "gender":""
+      }
+   ],
+   "department":"Drawings and Prints",
+   "objectName":"Drawing",
+   "title":"Château de Vouzan",
+   "culture":"",
+   "period":"",
+   "dynasty":"",
+   "reign":"",
+   "portfolio":"",
+   "artistRole":"Artist",
+   "artistPrefix":"",
+   "artistDisplayName":"Henry Victor Burgy",
+   "artistDisplayBio":"French, died 1901",
+   "artistSuffix":"",
+   "artistAlphaSort":"Burgy, Henry Victor",
+   "artistNationality":"French",
+   "artistBeginDate":"1801",
+   "artistEndDate":"1901",
+   "artistGender":"",
+   "artistWikidata_URL":"",
+   "artistULAN_URL":"",
+   "objectDate":"1888",
+   "objectBeginDate":1888,
+   "objectEndDate":1888,
+   "medium":"Watercolor",
+   "dimensions":"Sheet: 9 1/2 x 6 3/8 in. (24.1 x 16.2cm)",
+   "creditLine":"Bequest of H. V. Burgy, 1901",
+   "geographyType":"Made in",
+   "city":"",
+   "state":"",
+   "county":"",
+   "country":"France",
+   "region":"",
+   "subregion":"",
+   "locale":"",
+   "locus":"",
+   "excavation":"",
+   "river":"",
+   "classification":"Drawings",
+   "rightsAndReproduction":"",
+   "linkResource":"",
+   "metadataDate":"2020-03-03T07:20:07.517Z",
+   "repository":"Metropolitan Museum of Art, New York, NY",
+   "objectURL":"https://www.metmuseum.org/art/collection/search/333774",
+   "tags":[
+      {
+         "term":"Buildings",
+         "AAT_URL":"http://vocab.getty.edu/page/aat/300004789"
+      },
+      {
+         "term":"Castles",
+         "AAT_URL":"http://vocab.getty.edu/page/aat/300006891"
+      },
+      {
+         "term":"Trees",
+         "AAT_URL":"http://vocab.getty.edu/page/aat/300132410"
+      }
+   ],
+   "objectWikidata_URL":"",
+   "isTimelineWork":false
+}

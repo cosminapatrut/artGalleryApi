@@ -1,0 +1,72 @@
+{
+   "objectID":333783,
+   "isHighlight":false,
+   "accessionNumber":"16.4.6",
+   "accessionYear":"1916",
+   "isPublicDomain":true,
+   "primaryImage":"https://images.metmuseum.org/CRDImages/dp/original/DP816980.jpg",
+   "primaryImageSmall":"https://images.metmuseum.org/CRDImages/dp/web-large/DP816980.jpg",
+   "additionalImages":[
+
+   ],
+   "constituents":[
+      {
+         "role":"Artist",
+         "name":"Goya (Francisco de Goya y Lucientes)",
+         "constituentULAN_URL":"http://vocab.getty.edu/page/ulan/500118936",
+         "constituentWikidata_URL":"https://www.wikidata.org/wiki/Q5432",
+         "gender":""
+      }
+   ],
+   "department":"Drawings and Prints",
+   "objectName":"Print",
+   "title":"Plate 36 from 'Los Caprichos: A bad night (Mala noche.)",
+   "culture":"",
+   "period":"",
+   "dynasty":"",
+   "reign":"",
+   "portfolio":"Los Caprichos",
+   "artistRole":"Artist",
+   "artistPrefix":"",
+   "artistDisplayName":"Goya (Francisco de Goya y Lucientes)",
+   "artistDisplayBio":"Spanish, Fuendetodos 1746–1828 Bordeaux",
+   "artistSuffix":"",
+   "artistAlphaSort":"Goya (Francisco de Goya y Lucientes)",
+   "artistNationality":"Spanish",
+   "artistBeginDate":"1746",
+   "artistEndDate":"1828",
+   "artistGender":"",
+   "artistWikidata_URL":"https://www.wikidata.org/wiki/Q5432",
+   "artistULAN_URL":"http://vocab.getty.edu/page/ulan/500118936",
+   "objectDate":"ca. 1797–99",
+   "objectBeginDate":1792,
+   "objectEndDate":1804,
+   "medium":"Etching and burnished aquatint",
+   "dimensions":"Plate: 8 7/16 x 5 7/8 in. (21.5 x 15 cm)\r\nSheet: 12 1/16 x 7 13/16 in. (30.7 x 19.9 cm)",
+   "creditLine":"Gift of Walter E. Sachs, 1916",
+   "geographyType":"Made in",
+   "city":"",
+   "state":"",
+   "county":"",
+   "country":"Spain",
+   "region":"",
+   "subregion":"",
+   "locale":"",
+   "locus":"",
+   "excavation":"",
+   "river":"",
+   "classification":"Prints",
+   "rightsAndReproduction":"",
+   "linkResource":"",
+   "metadataDate":"2020-03-03T07:20:07.517Z",
+   "repository":"Metropolitan Museum of Art, New York, NY",
+   "objectURL":"https://www.metmuseum.org/art/collection/search/333783",
+   "tags":[
+      {
+         "term":"Human Figures",
+         "AAT_URL":"http://vocab.getty.edu/page/aat/300404114"
+      }
+   ],
+   "objectWikidata_URL":"",
+   "isTimelineWork":false
+}
